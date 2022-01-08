@@ -14,7 +14,7 @@ struct ContentView: View {
                 Text("TRIVVY")
                     .accentTitle()
                 
-                Text("Are you ready to test your trivial skills?")
+                Text("Are you ready to test your trivia skills?")
                     .foregroundColor(Color("AccentColor"))
             }
             
